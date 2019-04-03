@@ -6,6 +6,4 @@ title: whoami
 datafrogman@DataFrogman.com:~$ whoami  
 Quintin Kovach
 
-- 3rd year Computing Security Student at Rochester Institute of Technology
-- Member of RITSEC
-- Amatuer Reverse Engineer/Malware Analyst
+I am a third year Computing Security student at Rochester Institute of Technology.  My passions include Malware Analysis, Reverse Engineering, and Digital Forensics.  In my free time I am teaching myself Malware Analysis, I like to read, play Dungeons and Dragons, and tinker with various projects.
