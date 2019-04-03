@@ -1,3 +1,8 @@
+---
+layout: page
+title: Resources
+---
+
 ### Useful Links:
 
 * #### [/r/netsec](https://old.reddit.com/r/netsec)
