@@ -246,10 +246,6 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
           
-webrick:
-  headers:
-    X-Clacks-Overhead: GNU Terry Pratchett
-
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
